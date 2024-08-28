@@ -4,7 +4,7 @@ public class Message {
 
 	public static void main(String args[]) {
 		
-		System.out.println("APT 628!");
+		System.out.println("APT 507!");
 		
 	}
 }
